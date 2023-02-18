@@ -1,0 +1,61 @@
+*{
+    margin:0;
+    padding:20px;
+    box-sizing: border-box; 
+   
+}
+.container{
+    background-color: #1E1E1E;
+    color: #FFFFFF;
+    margin: auto;
+    font-family: 'Inter';
+    font-size: 20px;
+    font-weight: 200;
+}
+form{
+    padding: 0px;
+}
+ .name{
+    width: 50%;
+}
+.name input{
+    width:60%;
+    margin-left: 25px;
+    background-color: #1E1E1E;
+    border: 2px solid #FFFFFF;
+    color: #FFFFFF;
+    font-size: 20px;
+    font-weight: 200;
+
+}
+.name label{
+    display:inline-block;
+    width:20%;
+}
+.btn{
+    width:50%;
+}
+button{
+    width: 85%;
+} 
+
+
+table{
+    border: 1px solid white;
+    text-align: start;
+    border-collapse: collapse;
+    height: 100%;
+    width:100%;
+}
+th{
+    border: 2px solid white;
+    text-align: start; 
+    width:20%;
+    
+}
+td{
+    border: 2px solid white;
+    text-align: start;
+    border-bottom: none;
+    border-top: none;
+}
